@@ -1,6 +1,8 @@
 This is a public readme for the Therapy Connect web application. The project repository itself is private.
 # Therapy Connect
 
+[readme last updated Sep 2022]
+
 A web application that helps people find mental health professionals by matching them with providers and setting up appointments with minimal efforts. This app is meant to streamline and simplify the process that people go through when trying to find mental health professionals, which can often be frustrating and time consuming. 
 
 ## Features
