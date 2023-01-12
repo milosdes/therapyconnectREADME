@@ -1,9 +1,9 @@
-This is a public readme for the Therapy Connect web application. The project repository itself is private.
+This is a public portfolio showcasing the work that I have done for the Therapy Connect web application. The project repository itself is private.
 # Therapy Connect
 
-[readme last updated Sep 2022]
+[last updated Sep 2022]
 
-A web application that helps people find mental health professionals by matching them with providers and setting up appointments with minimal efforts. This app is meant to streamline and simplify the process that people go through when trying to find mental health professionals, which can often be frustrating and time consuming. 
+A web application that helps people find mental health professionals by matching them with providers and setting up consultation appointments with minimal efforts. This app is meant to streamline and simplify the process that people go through when trying to find mental health professionals, which can often be frustrating and time consuming. 
 
 ## Features
 
@@ -17,8 +17,8 @@ A web application that helps people find mental health professionals by matching
 - RTK Query for data fetching and caching
 - Email functionaility (notifications, confirmations, reminders)
 - User settings page
-- Provider profiles page
-- Automated importing of provider profile
+- Provider profile page
+- Automated importing of provider profile from public listings
 - Landing page
 
 ## Built with
@@ -29,7 +29,7 @@ A web application that helps people find mental health professionals by matching
 - Tailwindcss
 
 ## Demo
-- The web app is not available to the public yet. If you would like to see a live demo, please send an email to contact@therapyconnect.app
+- The web app has not launched for public use yet. Access to a private demo can be arranged. If you would like to see a live demo, please send me an email at milosmdes@gmail.com
 
 ### Multi-Page Form - Client Account
 ![multipage_form](https://media.giphy.com/media/DMmgIpzHou3tdj2kwX/giphy.gif)
